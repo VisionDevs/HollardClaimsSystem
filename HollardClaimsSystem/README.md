@@ -41,7 +41,7 @@ text
 
 1. Open in Visual Studio 2022+
 2. Press **F5** to run
-3. Go to `https://localhost:7159/index.html`
+3. Go to `https://localhost:7240/index.html`
 
 ## How to Use
 
