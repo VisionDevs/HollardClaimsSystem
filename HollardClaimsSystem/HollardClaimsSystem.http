@@ -1,0 +1,6 @@
+@HollardClaimsSystem_HostAddress = http://localhost:5140
+
+GET {{HollardClaimsSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

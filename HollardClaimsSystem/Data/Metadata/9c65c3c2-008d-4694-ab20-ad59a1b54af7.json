@@ -1,0 +1,22 @@
+{
+  "Id": "9c65c3c2-008d-4694-ab20-ad59a1b54af7",
+  "FileName": "9c65c3c2-008d-4694-ab20-ad59a1b54af7_Study Unit 1 Activity 1-11.pdf",
+  "OriginalFileName": "Study Unit 1 Activity 1-11.pdf",
+  "FileSize": 45262,
+  "ContentType": "application/pdf",
+  "UploadedAt": "2026-04-05T22:31:08.4556492Z",
+  "UploadedBy": "afda",
+  "ClaimNumber": "CLAIM-1775428268436",
+  "PolicyNumber": "",
+  "InsuredName": "",
+  "Status": "Rejected",
+  "Reviews": [
+    {
+      "Id": "0c037ae9-bf5e-4526-89b1-19928e89f9a9",
+      "ReviewerName": "Hollard Verifier",
+      "Comments": "incorect doc",
+      "Status": "Rejected",
+      "ReviewedAt": "2026-04-05T22:43:31.0996724Z"
+    }
+  ]
+}

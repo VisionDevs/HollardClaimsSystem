@@ -1,0 +1,22 @@
+{
+  "Id": "d137dbb3-c194-43a0-8f57-45148c27265e",
+  "FileName": "d137dbb3-c194-43a0-8f57-45148c27265e_ID 2.pdf",
+  "OriginalFileName": "ID 2.pdf",
+  "FileSize": 186212,
+  "ContentType": "application/pdf",
+  "UploadedAt": "2026-04-05T22:28:55.8099727Z",
+  "UploadedBy": "Vision Mavs",
+  "ClaimNumber": "CLAIM-1775428135674",
+  "PolicyNumber": "",
+  "InsuredName": "",
+  "Status": "Approved",
+  "Reviews": [
+    {
+      "Id": "b6fdda31-a1cd-400a-a7df-b82059393d7e",
+      "ReviewerName": "Hollard Verifier",
+      "Comments": "correct",
+      "Status": "Approved",
+      "ReviewedAt": "2026-04-05T22:43:40.4865722Z"
+    }
+  ]
+}

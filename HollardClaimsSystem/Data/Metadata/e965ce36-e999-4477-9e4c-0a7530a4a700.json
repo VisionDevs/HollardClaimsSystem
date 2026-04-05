@@ -1,0 +1,22 @@
+{
+  "Id": "e965ce36-e999-4477-9e4c-0a7530a4a700",
+  "FileName": "e965ce36-e999-4477-9e4c-0a7530a4a700_sample.pdf",
+  "OriginalFileName": "sample.pdf",
+  "FileSize": 639579,
+  "ContentType": "application/pdf",
+  "UploadedAt": "2026-04-05T22:56:52.4532913Z",
+  "UploadedBy": "Rotondwa Mavhungu",
+  "ClaimNumber": "CLM-1775429812055",
+  "PolicyNumber": "",
+  "InsuredName": "",
+  "Status": "Rejected",
+  "Reviews": [
+    {
+      "Id": "840fd991-5567-4d8e-a492-2db0bdfa3c77",
+      "ReviewerName": "Hollard Verifier",
+      "Comments": "incorrect document",
+      "Status": "Rejected",
+      "ReviewedAt": "2026-04-05T22:57:15.6245371Z"
+    }
+  ]
+}
